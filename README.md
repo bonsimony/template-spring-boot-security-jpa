@@ -1,4 +1,3 @@
-[boncms_readme.md](https://github.com/user-attachments/files/22966340/boncms_readme.md)
 # BONCMS_V1 개발 환경 설정 가이드
 
 전자정부 프레임워크 기반 Spring Boot 프로젝트 개발 환경 구축 및 GitHub 연동 가이드입니다.
