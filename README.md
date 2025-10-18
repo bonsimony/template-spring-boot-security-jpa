@@ -40,11 +40,11 @@ java -version
 ## 2️⃣ Eclipse 플러그인 설치 (Spring Tools 4)
 
 ### 2-1. Eclipse Marketplace 열기
-- 상단 메뉴: **[도움말]** → **[Eclipse Marketplace...]** 클릭
+- 상단 메뉴: **[Help]** → **[Eclipse Marketplace...]** 클릭
 
 ### 2-2. Spring Tools 4 검색 및 설치
 - 검색창에 **Spring Tools 4** 입력
-- 검색 결과에서 **[설치]** 버튼 클릭
+- 검색 결과에서 **[Install]** 버튼 클릭
 
 ### 2-3. 설치 프로세스 진행
 1. **확인 버튼** 클릭 (반복)
@@ -149,7 +149,7 @@ public class BoncmsV1Application {
 
 ### 5-1. Spring Boot 앱 실행
 1. `/BONCMS_V1/src/main/java/com/bon/cms/v1` 경로의 `BoncmsV1Application.java` 우클릭
-2. **[다음 계정으로 실행]** → **Spring Boot App** 선택
+2. **[RUN AS]** → **Spring Boot App** 선택
 
 ### 5-2. 실행 확인
 브라우저에서 `http://localhost:8080/` 입력하면 **Spring Security 기본 로그인 페이지**가 표시됩니다.
